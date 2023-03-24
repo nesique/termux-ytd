@@ -14,7 +14,7 @@ else
 fi
 
 echo -e "\e[036m" " [𝗦𝗲𝗹𝗲𝗰𝘁 𝗔 𝗙𝗼𝗿𝗺𝗮𝘁]"
-echo -e "\e[032m" "╠═▶ 1. Music Mp3♫"
+echo -e "\e[032m" "╠═▶ 1. Music/Audio m4a"
 echo -e "\e[032m" "╠═▶ 2. Video 360p"
 echo -e "\e[032m" "╠═▶ 3. Video 480p"
 echo -e "\e[032m" "╠═▶ 4. Video 720p"
